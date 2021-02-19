@@ -212,3 +212,9 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/pts_mockup_replace.iml
+.idea/vcs.xml
